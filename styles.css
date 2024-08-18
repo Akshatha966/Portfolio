@@ -239,7 +239,7 @@ profile-photo .img{
 }
 
 
-/*---------------------------Education & Internship---------------------------*/
+/*---------------------------Education & Experience---------------------------*/
 
 .education-content .row{
   display: flex;
@@ -252,7 +252,7 @@ profile-photo .img{
   color: #fed700;
 }
 .education-content .row .education,
-.education-content .row .internship,
+.education-content .row .Experience,
 .education-content .row .Skills
 {
   color: #e5e5e5;
@@ -296,7 +296,7 @@ profile-photo .img{
   padding-left: 37px;
   padding-bottom: 50px; 
 }
-.education-content .row  .internship .timeline-item{
+.education-content .row  .experience .timeline-item{
   position:relative;
   padding-left: 37px;
   padding-bottom: 30px; 
@@ -332,7 +332,7 @@ profile-photo .img{
   font-size: 18px;
   margin-bottom: 12px;
 }
-.education-content .row .internship .timeline-title  {
+.education-content .row .experience .timeline-title  {
   font-weight: 700;
   font-size: 18px;
   margin-bottom: 8px;
